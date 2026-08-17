@@ -1,8 +1,8 @@
 Algoritmo "VERIFICAR_INTERVALO"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Descrição   : Verifica se número está entre 10 e 50
-// Autor(a)    :
-// Data atual  :
+// Autor(a)    :  Wallace Duarte
+// Data atual  : 17/08/2026
 
 Var
    numero: inteiro
